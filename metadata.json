@@ -1,0 +1,7 @@
+{
+  "name": "AgriSecure Marketplace",
+  "description": "Unified Farmer-to-Market platform supporting direct Retail and Wholesale commerce with AI price shielding and Escrow management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
